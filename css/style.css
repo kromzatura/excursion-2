@@ -30,7 +30,8 @@ body {
 }
 
 /*FOOTER */
-.link--cta {
+.footer--copyright {
     color: gray;
     font-size: 16px;
+    text-align: right;
 }
