@@ -28,3 +28,9 @@ body {
     color: aqua;
     font-size: 16px;
 }
+
+/*FOOTER */
+.link--cta {
+    color: gray;
+    font-size: 16px;
+}
